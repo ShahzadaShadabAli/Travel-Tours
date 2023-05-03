@@ -1,0 +1,46 @@
+.heading-font{
+    font-family:'Gill Sans' !important;
+    font-weight: bolder !important;
+}
+.p-font{
+    font-family:monospace;
+    font-weight: 100;
+}
+.p-size{
+    font-size: 19px !important;
+
+}
+.header1{
+    background-image: url("../images/travel.jpg");
+    background-size:cover;
+}
+.space{
+    line-height: 2 !important;
+}
+.h-space{
+    line-height: 2.5 !important;
+}
+.s-font{
+    font-size: 18px !important;
+}
+.l-space{
+    line-height: 30px !important;
+}
+.text-grey{
+    color: rgb(139, 139, 139);
+}
+.icon-s2{
+    font-size: 20px !important;
+    color: #65c0ba;
+}
+.bg-grey{
+    background-color: #fafafa;
+}
+.ratings{
+    color: #65c0ba;
+}
+@media (max-width: 480px){
+    .carousel-heading{
+        font-size: 50px !important;
+    }  
+}
